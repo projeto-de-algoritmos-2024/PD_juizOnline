@@ -20,7 +20,7 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Conteúdo: Mochila Unbounded
 - Explicação: [Explicação 01](./explicacao/problema01.md)
 - Implementação: [Código 01](./codigos/questao01.cpp)
-- Vídeo: [Implementação 01](https://leetcode.com/problems/burst-balloons/description/)
+- Vídeo: [Implementação 01](https://heylisten64.notion.site/Quest-o-01-197173cd622780be8c11df406bb20fe3?pvs=4)
 - Autor: [Luiz Gustavo](https://github.com/luiz-gl-campos)
 
 ## Problema 2: [Troco](https://judge.beecrowd.com/pt/problems/view/2446)
