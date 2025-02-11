@@ -14,19 +14,19 @@
 
 O projeto consiste na resolução de questões que percorrem o conteúdo visto em sala de aula sobre conceitos aprofundados em programação dinâmica
 
-## Problema 1: []()
+## Problema 1: [Cortando Canos](https://judge.beecrowd.com/pt/problems/view/1798)
 
 - Nível: Médio
-- Conteúdo: 
+- Conteúdo: Mochila Unbounded
 - Explicação: [Explicação 01](./explicacao/problema01.md)
 - Implementação: [Código 01](./codigos/questao01.cpp)
 - Vídeo: [Implementação 01]()
 - Autor: [Luiz Gustavo](https://github.com/luiz-gl-campos)
 
-## Problema 2: []()
+## Problema 2: [Troco](https://judge.beecrowd.com/pt/problems/view/2446)
 
 - Nível: Difícil
-- Conteúdo: 
+- Conteúdo: Mochila Booleana
 - Explicação: [Explicação 02](./explicacao/problema02.md)
 - Implementação: [Código 02](./codigos/questao02.cpp)
 - Vídeo: [Implementação 02]()
